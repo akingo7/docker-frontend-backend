@@ -6,4 +6,4 @@ services:
   frontend:
     build: web_frontend/.
     ports:
-    - "9091:80"
+    - "80:80"
